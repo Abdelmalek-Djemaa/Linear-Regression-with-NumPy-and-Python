@@ -20,7 +20,7 @@ Task 8: Inference using the optimized 𝜃 values
 
 ## Certificate
 
-![Certificate Image](https://github.com/Abdelmalek-Djemaa/Linear-Regression-with-NumPy-and-Python/blob/27a60c316c00c290857ada9b82d25fef15dfa2ef/Certificate.png)
+![Certificate Image](https://github.com/Abdelmalek-Djemaa/Linear-Regression-with-NumPy-and-Python/blob/1e59ac3128c90326c982524e1113ec068321f646/Certificate.png)
 
 
 ---
