@@ -1,6 +1,6 @@
 # Linear Regression with Python
 
-## tasks of the project
+## Tasks of the project
 
 Task 1: Load the Data and Libraries
 
